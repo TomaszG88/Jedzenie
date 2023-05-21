@@ -33,13 +33,13 @@ Aby zainstalować aplikację, wykonaj następujące kroki:
 1. Sklonuj repozytorium na swój lokalny komputer:
 
    ```
-   git clone https://github.com/twoja-nazwa/aplikacja-do-zamawiania-jedzenia.git
+   git clone https://github.com/TomaszG88/Jedzenie.git
    ```
 
 2. Przejdź do katalogu z projektem:
 
    ```
-   cd aplikacja-do-zamawiania-jedzenia
+   cd Jedzenie
    ```
 
 3. Zainstaluj zależności:
