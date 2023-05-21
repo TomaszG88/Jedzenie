@@ -1,7 +1,7 @@
 # Jedzenia
 # Aplikacja do zamawiania jedzenia
 
-![Logo aplikacji](logo.png)
+![Logo aplikacji](img/pro.png)
 
 Aplikacja do zamawiania jedzenia to prosta i wygodna platforma, która umożliwia użytkownikom składanie zamówień z różnych restauracji i dostarczenie ich pod wskazany adres. Ta dokumentacja zawiera informacje na temat instalacji, konfiguracji i używania aplikacji.
 
